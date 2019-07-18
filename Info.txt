@@ -1,0 +1,3 @@
+Ово је пројекат из видео курса "Getting Started with .NET Core Clean Architecture"
+
+C:\Users\gtrajkovic\Videos\Software Architecture\Getting Started with .NET Core Clean Architecture
